@@ -24,9 +24,14 @@ The dashboard provides actionable business insights into revenue trends, order d
 
 ## Dashboard Preview
 
-![Sales Overview Dashboard](dashboard1.png)
+### Sales Overview
+![Sales Overview](Sales%20overview.png)
 
-![Specifications Dashboard](dashboard2.png)
+### Operations & Delivery
+![Operations & Delivery](operations%20%26%20delivery.png)
+
+### Product & Category Performance
+![Product & Category Performance](product%26%20category%20performane.png)
 
 ## Project Files
 - train.xlsx: Complete Excel workbook with cleaned dataset, Pivot Tables, and Dashboards.
